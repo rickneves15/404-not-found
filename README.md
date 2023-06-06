@@ -59,6 +59,6 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- Website [your-website.com](https://{your-web-site-link})
-- GitHub [@your-username](https://{github.com/your-usermame})
-- Twitter [@your-twitter](https://{twitter.com/your-username})
+- [Website](https://richard-neves.vercel.app/)
+- GitHub [@rickneves15](https://github.com/rickneves15)
+- Linkedin [@richard-neves](https://www.linkedin.com/in/richard-neves/)
