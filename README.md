@@ -22,8 +22,7 @@
 
 ## Table of Contents
 
-- [Overview](#overview)
-  - [Built With](#built-with)
+- [Built With](#built-with)
 - [Features](#features)
 - [Contact](#contact)
 - [Acknowledgements](#acknowledgements)
@@ -32,7 +31,8 @@
 
 ## Overview
 
-![screenshot](blob:https://vercel.com/37a15db4-42b9-4480-ab9a-4f257672d8a0)
+![screenshot](https://github.com/rickneves15/404-not-found/assets/22063149/d87f86e7-95af-48c3-9f26-bced650552b5)
+
 
 ### Built With
 
